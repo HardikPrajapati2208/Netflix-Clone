@@ -5,7 +5,7 @@ Netflix Clone Project
 Login & Sign-up With User Authentication with PHP & XAMPP
 Homepage Made with HTML, CSS & JavaScript
 
-Home Page
+Landing Page
 
 ![image](https://user-images.githubusercontent.com/120882840/234582433-e0045a99-e1f8-48ec-9a1f-98de79442611.png)
 ![image](https://user-images.githubusercontent.com/120882840/234582600-bcb4052d-9c65-4baf-91f6-c538d372a7d0.png)
