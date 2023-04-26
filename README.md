@@ -2,8 +2,8 @@
 
 Netflix Clone Project 
 
-Login & Sign-up With User Authentication with PHP & XAMPP
-Homepage Made with HTML, CSS & JavaScript
+Login & Sign-up With User Authentication with PHP & XAMPP.
+Homepage Made with HTML, CSS & JavaScript.
 
 Landing Page
 
